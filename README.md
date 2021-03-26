@@ -1,0 +1,1 @@
+Detect amongus with the opencv python library
